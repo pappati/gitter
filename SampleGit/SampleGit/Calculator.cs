@@ -35,7 +35,7 @@ namespace SampleGit
 
         public void IamOnMasterAgain()
         {
-            //
+            //foo
         }
     }
 }
