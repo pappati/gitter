@@ -27,5 +27,10 @@ namespace SampleGit
         {
             //
         }
+
+        public void Developer1()
+        {
+            //from developer 1;
+        }
     }
 }
