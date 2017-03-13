@@ -22,5 +22,10 @@ namespace SampleGit
         {
             return 3*4;
         }
+
+        public void MainLineDevelopment()
+        {
+            //
+        }
     }
 }
