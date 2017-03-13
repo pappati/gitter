@@ -32,6 +32,7 @@ namespace SampleGit
         {
             //adding from master;
             //i am adding these lines from a feature branch;
+            //and one more line from the feature branch;
         }
     }
 }
