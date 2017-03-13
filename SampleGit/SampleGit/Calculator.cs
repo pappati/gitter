@@ -31,6 +31,7 @@ namespace SampleGit
         public void AddFrommaster()
         {
             //adding from master;
+            //i am adding these lines from a feature branch;
         }
     }
 }
