@@ -17,5 +17,10 @@ namespace SampleGit
         {
             return a + b;
         }
+
+        public int MultiLocal()
+        {
+            return 3*5;
+        }
     }
 }
