@@ -34,5 +34,10 @@ namespace SampleGit
             //i am adding these lines from a feature branch;
             //and one more line from the feature branch;
         }
+
+        public void IamOnMasterAgain()
+        {
+            //foo
+        }
     }
 }
