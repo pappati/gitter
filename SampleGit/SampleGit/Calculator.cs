@@ -27,5 +27,10 @@ namespace SampleGit
         {
             //
         }
+
+        public void AddFrommaster()
+        {
+            //adding from master;
+        }
     }
 }
