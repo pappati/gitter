@@ -25,7 +25,7 @@ namespace SampleGit
 
         public void SuperAlgorithmOnFeatureA()
         {
-            
+            //line 1
         }
     }
 }
