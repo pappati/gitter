@@ -12,5 +12,10 @@ namespace SampleGit
         {
             return a + b;
         }
+
+        public int LocalSuperAdd(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
