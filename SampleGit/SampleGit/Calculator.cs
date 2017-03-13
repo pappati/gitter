@@ -27,5 +27,10 @@ namespace SampleGit
         {
             //
         }
+
+        public void Deve2NiceMergeConflict()
+        {
+            //
+        }
     }
 }
