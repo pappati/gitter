@@ -32,5 +32,10 @@ namespace SampleGit
         {
             //adding from master;
         }
+
+        public void IamOnMasterAgain()
+        {
+            //
+        }
     }
 }
