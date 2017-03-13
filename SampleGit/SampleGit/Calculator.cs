@@ -22,5 +22,10 @@ namespace SampleGit
         {
             return 3*5;
         }
+
+        public void SuperAlgorithmOnFeatureA()
+        {
+            
+        }
     }
 }
