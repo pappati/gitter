@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace SampleGit
 {
     //second;
+    /// <summary>
+    /// this is a comment;
+    /// </summary>
     class Spike
     {
         //comment
