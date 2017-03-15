@@ -9,5 +9,6 @@ namespace SampleGit
     //second;
     class Spike
     {
+        //comment
     }
 }
