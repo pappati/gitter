@@ -10,5 +10,6 @@ namespace SampleGit
     class Spike
     {
         //comment
+        //one more line
     }
 }
